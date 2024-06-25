@@ -61,7 +61,7 @@ Python-Basics-DSA/
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/Python-Basics-DSA.git
+    git clone https://github.com/abhishekchaturvedi-07/python_with_dsa
     ```
 2. Navigate to the project directory:
     ```sh
